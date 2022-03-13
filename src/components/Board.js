@@ -14,7 +14,7 @@ export default class Board extends Component {
       this.state = {
         lists: [
           {
-            title: 'Derrick',
+            title: 'রহিম',
             id: 0,
             cards: [{
               taskText: 'default task card 1',
@@ -28,7 +28,7 @@ export default class Board extends Component {
             }]
           },
           {
-            title: 'Maxwell',
+            title: 'করিম',
             id: 1,
             cards: [{
               taskText: 'default task card 1',
@@ -42,7 +42,7 @@ export default class Board extends Component {
             }]
           },
           {
-            title: 'Zaza',
+            title: 'যদু ',
             id: 2,
             cards: [{
               taskText: 'default task card 1',
@@ -56,7 +56,7 @@ export default class Board extends Component {
             }]
           },
           {
-            title: 'Sam',
+            title: 'মধু ',
             id: 3,
             cards: [{
               taskText: 'default task card 1',
